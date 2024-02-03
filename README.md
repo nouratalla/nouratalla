@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nouratalla
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me No_at16@yahoo.com
+- 👀 I’m interested in Back-End and  Data Analysis
+- 📫 How to reach me nourelden.hassan.92@gmail.com
 
 <!---
 nouratalla/nouratalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
